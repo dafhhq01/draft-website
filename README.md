@@ -21,7 +21,7 @@ All crafted with scroll-based animations and responsive layout that adapts beaut
 
 ## 📸 Preview
 
-![Preview](assets/images/image-web.jpg)
+![Preview](assets/images/image-web.png)
 
 > 🌐 Live demo https://draft-website-ecru.vercel.app/
 
